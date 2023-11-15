@@ -1,17 +1,13 @@
 /**
- * @name ClearVision
- * @author ClearVision Team
- * @version 6.3.0
- * @description Highly customizable theme for BetterDiscord.
- * @source https://github.com/ClearVision/ClearVision-v6
- * @website https://clearvision.github.io
+ * @name mot204t
+ * @author mot204t
+ * @version 1.2
+ * @website https://mot204t.github.io
  * @invite dHaSxn3
  */
 
-/* Credits to Zerthox for making the original theme. */
-
 /* IMPORT CSS */
-@import url(https://clearvision.github.io/ClearVision-v6/main.css);
+@import url(https://mot204t.github.io/discord.theme.css);
 
 /* SETTINGS */
 :root {
